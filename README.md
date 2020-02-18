@@ -1,14 +1,14 @@
 # Awesome StimulusJS
 <div align="center">
-  <p>Modestly awesome list of StimulusJS related content.</p>
+  <h3>Modestly awesome list of StimulusJS related content.</h3>
   <div>
     Stimulus is, in many ways, the opposite of other modern frameworks available today. Here is what creators have to say about it:
   </div>
-
+  <br />
   <div>
     <i>It doesn’t seek to take over your entire front-end—in fact, it’s not concerned with rendering HTML at all. Instead, it’s designed to augment your HTML with just enough behavior to make it shine. </i> (c)
   </div>
-
+  <br />
   <div>
     This repository aims to showcase what is possible with this approach.
   </div>
