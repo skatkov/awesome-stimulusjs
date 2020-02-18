@@ -3,10 +3,10 @@
 ## Contents
 
   - [Packages](#packages)
-  - [Content](#content)
+  - [Reading](#reading)
   - [Other modest code](#other-modest-code)
 
-## Code
+## Packages
 - [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Proenix Liveview based on modern rails.
 - [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) - A Stimulus Wrapper for Flatpickr library
 - [tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of Stimulus components (tabs, dropdowns, modals, toggles, autosave, etc) for TailwindCSS users
@@ -23,7 +23,7 @@
 - [Stimulus Getaddress.io](https://gitlab.com/initforthe/stimulus-getaddress-io) - Getaddress.io controller for StimulusJS
 
 
-## Content
+## Reading
 - [Modest Js Works](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
 - [StimulusJS Tutorials from onrails.blog](https://onrails.blog/stimulus-js-tutorials/) - A lot og good ready-made solution for your daily stimulusjs usage.
 - [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
