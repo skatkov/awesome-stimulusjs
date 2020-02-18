@@ -10,7 +10,7 @@
   </div>
   <br />
   <div>
-    This repository aims to showcase what is possible with this approach.
+    This repository aims to showcase what is possible with this approach and link any other helpful content for your modest JS journey.
   </div>
 </div>
 
