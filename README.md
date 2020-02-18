@@ -26,6 +26,7 @@
 ## Content
 - [Modest Js Works](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
 - [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
+- [Hacker New PWA With Rails + Stimulus.js](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/) - blog post detailing the build, but also comes with open source code and a demo!
 - [gorails courses on StimulusJs](https://gorails.com/episodes/dynamic-nested-forms-with-stimulus-js)
 
 ## Other modest code
