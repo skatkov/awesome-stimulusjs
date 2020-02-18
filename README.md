@@ -28,6 +28,7 @@
 - [StimulusJS Tutorials from onrails.blog](https://onrails.blog/stimulus-js-tutorials/) - A lot og good ready-made solution for your daily stimulusjs usage.
 - [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
 - [How We Migrated To Turbolinks Without Breaking Javascript](https://www.honeybadger.io/blog/turbolinks/)
+- Using StimulusJS for Type-ahead Search [part 1](http://mccollester.com/2019/02/11/using-stimulusjs-type-ahead-search/) and [part 2](http://mccollester.com/2019/02/13/using-stimulusjs-for-type-ahead-search-2-2/)
 - [gorails courses on StimulusJs](https://gorails.com/episodes/dynamic-nested-forms-with-stimulus-js)
 
 ## Other modest code
