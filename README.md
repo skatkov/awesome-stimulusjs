@@ -21,13 +21,20 @@
   - [Other modest code](#other-modest-code)
 
 ## Reading
-- [Modest Js Works](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
-- [StimulusJS Tutorials from onrails.blog](https://onrails.blog/stimulus-js-tutorials/) - A lot og good ready-made solution for your daily stimulusjs usage.
+- [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
+- [onrails.blog: StimulusJS Tutorial](https://onrails.blog/stimulus-js-tutorials/) - One man journey to stimulusjs written down in form of tutorials (with demo's and code!!!). My favorite tutorials include:
+
+  - [Building a Progressive Web App with Rails and Stimulus](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/) 
+  - [Stimulus + ActionCable + ActiveJob: Loading Asynchronous API Data](https://onrails.blog/2019/02/19/stimulus-actioncable-activejob-loading-asynchronous-api-data/)
 - [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
 - [How We Migrated To Turbolinks Without Breaking Javascript](https://www.honeybadger.io/blog/turbolinks/)
 - Using StimulusJS for Type-ahead Search [part 1](http://mccollester.com/2019/02/11/using-stimulusjs-type-ahead-search/) and [part 2](http://mccollester.com/2019/02/13/using-stimulusjs-for-type-ahead-search-2-2/)
 - [StimulusJS and Shopify API; Making a Cart](https://cloudsh.com/eleventy/stimulusjs_and_shopify_api.html)
-- [gorails courses on StimulusJs](https://gorails.com/episodes/dynamic-nested-forms-with-stimulus-js)
+- __gorails.com: guides, screencasts, and tutorials_ - Premium content, covers everything one needs to know StimulusJS in an easily digestible video format (with code, demos and text as well).
+- [Stimulus JS Framework Introduction](https://gorails.com/episodes/stimulus-js-framework-introduction?autoplay=1)
+- [Stimulus JS Twitter UI: Part 1](https://gorails.com/episodes/stimulus-js-twitter-ui-part-1)
+- [Stimulus JS Twitter UI: Part 2](https://gorails.com/episodes/stimulus-js-twitter-ui-part-2)
+- [Dynamic Nested Forms with Stimulus JS](https://gorails.com/episodes/dynamic-nested-forms-with-stimulus-js)
 
 ## Packages
 - [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Proenix Liveview based on modern rails.
