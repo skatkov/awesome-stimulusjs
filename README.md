@@ -29,11 +29,11 @@
 - [How We Migrated To Turbolinks Without Breaking Javascript](https://www.honeybadger.io/blog/turbolinks/)
 - Using StimulusJS for Type-ahead Search [part 1](http://mccollester.com/2019/02/11/using-stimulusjs-type-ahead-search/) and [part 2](http://mccollester.com/2019/02/13/using-stimulusjs-for-type-ahead-search-2-2/)
 - [StimulusJS and Shopify API; Making a Cart](https://cloudsh.com/eleventy/stimulusjs_and_shopify_api.html)
-- __gorails.com: guides, screencasts, and tutorials_ - Premium content, covers everything one needs to know StimulusJS in an easily digestible video format (with code, demos and text as well).
- - [Stimulus JS Framework Introduction](https://gorails.com/episodes/stimulus-js-framework-introduction?autoplay=1)
- - [Stimulus JS Twitter UI: Part 1](https://gorails.com/episodes/stimulus-js-twitter-ui-part-1)
- - [Stimulus JS Twitter UI: Part 2](https://gorails.com/episodes/stimulus-js-twitter-ui-part-2)
- - [Dynamic Nested Forms with Stimulus JS](https://gorails.com/episodes/dynamic-nested-forms-with-stimulus-js)
+- __gorails.com: guides, screencasts, and tutorials__ - Premium content, covers everything one needs to know StimulusJS in an easily digestible video format (with code, demos and text as well).
+  - [Stimulus JS Framework Introduction](https://gorails.com/episodes/stimulus-js-framework-introduction?autoplay=1)
+  - [Stimulus JS Twitter UI: Part 1](https://gorails.com/episodes/stimulus-js-twitter-ui-part-1)
+  - [Stimulus JS Twitter UI: Part 2](https://gorails.com/episodes/stimulus-js-twitter-ui-part-2)
+  - [Dynamic Nested Forms with Stimulus JS](https://gorails.com/episodes/dynamic-nested-forms-with-stimulus-js)
 
 ## Packages
 - [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Proenix Liveview based on modern rails.
