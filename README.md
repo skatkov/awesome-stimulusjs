@@ -14,15 +14,13 @@
 - [stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - StimulusJS autocomplete component
 - [stimulus-tabs](https://github.com/jwald1/stimulus-tabs) - A simple tabs controller for Stimulus.js
 - [stimulus-data-bindings](https://gitlab.com/initforthe/stimulus-data-bindings) - One-way data binding controller for stimulus.js
-- stimulus-conductor - An optionated Stimulus Controller to easily manage parent/children controllers
-- stimulus-placeholdable - A StimulusJS controller for content that needs a placeholder.
-- stimulus-rails-ujs - Rails UJS bindings for Stimulus
-- stimulus-sticky-table-header - Sticky Table Header Controller Using Stimulus.js
-- stimulus-bulma-modal - A StimulusJS controller for Bulma modals.
-- stimulus-uppercaseable-input - A StimulusJS controller for forcing any input field to uppercase only.
-- stimulus-inline-edit - A StimulusJS controller to add inline edit to Rails-powered input fields.
-- stimulus-form-utilities - A set of small form utility helpers built with Stimulus.
-- stimulus-stripe-elements - A StimulusJS controller to add Stripe.js and Elements to your page
+- [stimulus-conductor](https://github.com/adrienpoly/stimulus-conductor) - An optionated Stimulus Controller to easily manage parent/children controllers
+- [stimulus-rails-ujs](https://gitlab.com/initforthe/stimulus-rails-ujs) - Rails UJS bindings for Stimulus
+- [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - Sticky Table Header Controller Using Stimulus.js
+- [stimulus-inline-edit](https://github.com/eelcoj/stimulus-inline-edit) - A StimulusJS controller to add inline edit to Rails-powered input fields.
+- [stimulus-form-utilities](https://github.com/eelcoj/stimulus-form-utilities) - A set of small form utility helpers built with Stimulus.
+- [stimulus-stripe-elements](https://github.com/eelcoj/stimulus-stripe-elements) - A StimulusJS controller to add Stripe.js and Elements to your page
+- [Stimulus Getaddress.io](https://gitlab.com/initforthe/stimulus-getaddress-io) - Getaddress.io controller for StimulusJS
 
 
 ## Content
