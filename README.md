@@ -1,4 +1,7 @@
 # List of modestly awesome stuff for StimulusJs
+<div align="center">
+  <sup>Modestly awesome list of StimulusJS related content.</sup>
+</div>
 
 ## Contents
 
