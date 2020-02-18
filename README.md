@@ -9,11 +9,11 @@
 ## Code
 - [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Proenix Liveview based on modern rails.
 - [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) - A Stimulus Wrapper for Flatpickr library
-- tailwindcss-stimulus-components - A set of Stimulus components (tabs, dropdowns, modals, toggles, autosave, etc) for TailwindCSS users
-- stimulus-validation - Validation controller for Stimulus.js
-- stimulus-autocomplete - StimulusJS autocomplete component
-- stimulus-tabs - A simple tabs controller for Stimulus.js
-- stimulus-data-bindings - One-way data binding controller for stimulus.js
+- [tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of Stimulus components (tabs, dropdowns, modals, toggles, autosave, etc) for TailwindCSS users
+- [stimulus-validation](https://github.com/jwald1/stimulus-validation) - Validation controller for Stimulus.js
+- [stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - StimulusJS autocomplete component
+- [stimulus-tabs](https://github.com/jwald1/stimulus-tabs) - A simple tabs controller for Stimulus.js
+- [stimulus-data-bindings](https://gitlab.com/initforthe/stimulus-data-bindings) - One-way data binding controller for stimulus.js
 - stimulus-conductor - An optionated Stimulus Controller to easily manage parent/children controllers
 - stimulus-placeholdable - A StimulusJS controller for content that needs a placeholder.
 - stimulus-rails-ujs - Rails UJS bindings for Stimulus
