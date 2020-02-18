@@ -4,9 +4,11 @@
   <div>
     Stimulus is, in many ways, the opposite of other modern frameworks available today. Here is what creators have to say about it:
   </div>
-  <blockquote>
-    It doesn’t seek to take over your entire front-end—in fact, it’s not concerned with rendering HTML at all. Instead, it’s designed to augment your HTML with just enough behavior to make it shine. 
-  </blockquote>
+
+  <div>
+    <i>It doesn’t seek to take over your entire front-end—in fact, it’s not concerned with rendering HTML at all. Instead, it’s designed to augment your HTML with just enough behavior to make it shine. </i> (c)
+  </div>
+
   <div>
     This repository aims to showcase what is possible with this approach.
   </div>
