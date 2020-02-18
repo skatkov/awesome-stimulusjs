@@ -27,6 +27,7 @@
 - [Modest Js Works](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
 - [StimulusJS Tutorials from onrails.blog](https://onrails.blog/stimulus-js-tutorials/) - A lot og good ready-made solution for your daily stimulusjs usage.
 - [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
+- [How We Migrated To Turbolinks Without Breaking Javascript](https://www.honeybadger.io/blog/turbolinks/)
 - [gorails courses on StimulusJs](https://gorails.com/episodes/dynamic-nested-forms-with-stimulus-js)
 
 ## Other modest code
