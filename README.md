@@ -1,6 +1,6 @@
 # Awesome StimulusJS
 <div align="center">
-  <sup>Modestly awesome list of StimulusJS related content.</sup>
+  <p>Modestly awesome list of StimulusJS related content.</p>
 </div>
 
 ## Contents
