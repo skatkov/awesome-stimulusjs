@@ -21,16 +21,16 @@
   - [Other modest code](#other-modest-code)
 
 ## Reading
-- [_modestjs.works:_ Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
-- [_onrails.blog:_ StimulusJS Tutorials](https://onrails.blog/stimulus-js-tutorials/) - One man journey to stimulusjs written down in form of tutorials (with demo's and code). My favorite:
+- _modestjs.works:_ [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
+- _onrails.blog:_ [ StimulusJS Tutorials](https://onrails.blog/stimulus-js-tutorials/) - One man journey to stimulusjs written down in form of tutorials (with demo's and code). My favorite:
   - [Building a Progressive Web App with Rails and Stimulus](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/) 
   - [Stimulus + ActionCable + ActiveJob: Loading Asynchronous API Data](https://onrails.blog/2019/02/19/stimulus-actioncable-activejob-loading-asynchronous-api-data/)
-- [_jorgemanrubia.com:_ Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
-- [_honeybadger.io:_ How We Migrated To Turbolinks Without Breaking Javascript](https://www.honeybadger.io/blog/turbolinks/)
+- _jorgemanrubia.com:_ [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
+- _honeybadger.io:_ [How We Migrated To Turbolinks Without Breaking Javascript](https://www.honeybadger.io/blog/turbolinks/)
 - _mccollester.com_ __Using StimulusJS for Type-ahead Search__ 
   - [part 1](http://mccollester.com/2019/02/11/using-stimulusjs-type-ahead-search/)
   - [part 2](http://mccollester.com/2019/02/13/using-stimulusjs-for-type-ahead-search-2-2/)
-- [_cloudsh.com:_ StimulusJS and Shopify API; Making a Cart](https://cloudsh.com/eleventy/stimulusjs_and_shopify_api.html)
+- _cloudsh.com:_ [StimulusJS and Shopify API; Making a Cart](https://cloudsh.com/eleventy/stimulusjs_and_shopify_api.html)
 - _gorails.com:_ __guides, screencasts, and tutorials__ - Premium content, covers everything one needs to know about StimulusJS in an easily digestible video format (with code, demos and text as well).
   - [Stimulus JS Framework Introduction](https://gorails.com/episodes/stimulus-js-framework-introduction?autoplay=1)
   - [Stimulus JS Twitter UI: Part 1](https://gorails.com/episodes/stimulus-js-twitter-ui-part-1)
