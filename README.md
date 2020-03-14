@@ -17,6 +17,7 @@
 ## Contents
 
   - [Reading](#reading)
+  - [Podcasts](#podcasts)
   - [Packages](#packages)
   - [Other modest code](#other-modest-code)
 
@@ -38,9 +39,15 @@
   - [Stimulus JS Twitter UI: Part 2](https://gorails.com/episodes/stimulus-js-twitter-ui-part-2)
   - [Dynamic Nested Forms with Stimulus JS](https://gorails.com/episodes/dynamic-nested-forms-with-stimulus-js)
 
+## Podcasts
+- _The Changelog:_ [JavaScript sprinkles in Basecamp turned Stimulus](https://changelog.com/podcast/286) - David Heinemeier Hansson joined the show to share the story of how JavaScript sprinkles in Basecamp evolved into a full-fledged framework called Stimulus.
+- _Full Stack Radio:_ [DHH - Stimulus in Practice + On Writing Software Well](http://www.fullstackradio.com/83) - In this episode, Adam talks to David Heinemeier Hansson about Basecamp's new JavaScript framework "Stimulus" as well as David's new YouTube series "On Writing Software Well".
+- _Ruby Rogues:_ [Stimulus](https://www.youtube.com/watch?v=5ACErJC9ixs&list=PLJesql-aSfX7ZlZvJ7KZnyluVOVTSNHW1&index=20&t=0s) - The panelists talk about different use cases for Stimulus, how it works, and how it can help your project
+
+
 ## Packages
 - [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Proenix Liveview based on modern rails.
-- [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) - A Stimulus Wrapper for Flatpickr library
+- [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) - A Wrapper for Flatpickr library
 - [tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of Stimulus components (tabs, dropdowns, modals, toggles, autosave, etc) for TailwindCSS users
 - [stimulus-validation](https://github.com/jwald1/stimulus-validation) - Validation controller for Stimulus.js
 - [stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - StimulusJS autocomplete component
