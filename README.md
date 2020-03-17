@@ -19,6 +19,7 @@
   - [Reading](#reading)
   - [Podcasts](#podcasts)
   - [Packages](#packages)
+  - [Community](#community)
   - [Other modest code](#other-modest-code)
 
 ## Reading
@@ -44,7 +45,6 @@
 - _Full Stack Radio:_ [DHH - Stimulus in Practice + On Writing Software Well](http://www.fullstackradio.com/83) - In this episode, Adam talks to David Heinemeier Hansson about Basecamp's new JavaScript framework "Stimulus" as well as David's new YouTube series "On Writing Software Well".
 - _Ruby Rogues:_ [Stimulus](https://www.youtube.com/watch?v=5ACErJC9ixs&list=PLJesql-aSfX7ZlZvJ7KZnyluVOVTSNHW1&index=20&t=0s) - The panelists talk about different use cases for Stimulus, how it works, and how it can help your project
 
-
 ## Packages
 - [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Proenix Liveview based on modern rails.
 - [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) - A Wrapper for Flatpickr library
@@ -61,6 +61,9 @@
 - [stimulus-stripe-elements](https://github.com/eelcoj/stimulus-stripe-elements) - A StimulusJS controller to add Stripe.js and Elements to your page
 - [stimulus-getaddress-io](https://gitlab.com/initforthe/stimulus-getaddress-io) - Getaddress.io controller for StimulusJS
 
+## Community
+- [Stimulus Discourse](https://discourse.stimulusjs.org/)
+- [Stimulus Telegram Group](https://t.me/stimulusjs/)
 
 ## Other modest code
 - [Black Candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server. Biggest open source rails app done with stimulusjs
