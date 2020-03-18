@@ -24,12 +24,12 @@
 ## Reading
 - _modestjs.works:_ [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
 - _onrails.blog:_ [ StimulusJS Tutorials](https://onrails.blog/stimulus-js-tutorials/) - One man journey to stimulusjs written down in form of tutorials (with demo's and code). My favorite:
-  - [Building a Progressive Web App with Rails and Stimulus](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/) 
+  - [Building a Progressive Web App with Rails and Stimulus](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/)
   - [Stimulus + ActionCable + ActiveJob: Loading Asynchronous API Data](https://onrails.blog/2019/02/19/stimulus-actioncable-activejob-loading-asynchronous-api-data/)
 - _jorgemanrubia.com:_ [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
 - _shime.sh:_ [Testing StimulusJS](https://shime.sh/testing-stimulus) - Testing was never covered in official documentation, this is an interesting alternative approach.
 - _honeybadger.io:_ [How We Migrated To Turbolinks Without Breaking JavaScript](https://www.honeybadger.io/blog/turbolinks/)
-- _mccollester.com_ __Using StimulusJS for Type-ahead Search__ 
+- _mccollester.com_ __Using StimulusJS for Type-ahead Search__
   - [part 1](http://mccollester.com/2019/02/11/using-stimulusjs-type-ahead-search/)
   - [part 2](http://mccollester.com/2019/02/13/using-stimulusjs-for-type-ahead-search-2-2/)
 - _cloudsh.com:_ [StimulusJS and Shopify API; Making a Cart](https://cloudsh.com/eleventy/stimulusjs_and_shopify_api.html)
@@ -42,11 +42,11 @@
 ## Podcasts
 - _The Changelog:_ [JavaScript sprinkles in Basecamp turned Stimulus](https://changelog.com/podcast/286) - David Heinemeier Hansson joined the show to share the story of how JavaScript sprinkles in Basecamp evolved into a full-fledged framework called Stimulus.
 - _Full Stack Radio:_ [DHH - Stimulus in Practice + On Writing Software Well](http://www.fullstackradio.com/83) - In this episode, Adam talks to David Heinemeier Hansson about Basecamp's new JavaScript framework "Stimulus" as well as David's new YouTube series "On Writing Software Well".
-- _Ruby Rogues:_ [Stimulus](https://www.youtube.com/watch?v=5ACErJC9ixs&list=PLJesql-aSfX7ZlZvJ7KZnyluVOVTSNHW1&index=20&t=0s) - The panelists talk about different use cases for Stimulus, how it works, and how it can help your project
-
+- _Ruby Rogues:_ [Stimulus](https://www.youtube.com/watch?v=5ACErJC9ixs&list=PLJesql-aSfX7ZlZvJ7KZnyluVOVTSNHW1&index=20&t=0s) - The panelists talk about different use cases for Stimulus, how it works, and how it can help your project.
+- _Code with Jason:_ [Stimulus and Webpacker with Noel Rappin](https://www.codewithjason.com/rails-with-jason-podcast/noel-rappin/) - Noel Rappin talks about Webpack, Webpacker, and Stimulus.
 
 ## Packages
-- [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Proenix Liveview based on modern rails.
+- [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Phoenix Liveview based on modern rails.
 - [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) - A Wrapper for Flatpickr library
 - [tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of Stimulus components (tabs, dropdowns, modals, toggles, autosave, etc) for TailwindCSS users
 - [stimulus-validation](https://github.com/jwald1/stimulus-validation) - Validation controller for Stimulus.js
@@ -64,7 +64,7 @@
 
 ## Other modest code
 - [Black Candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server. Biggest open source rails app done with stimulusjs
-- [Sjabloon-lite](https://github.com/eelcoj/sjabloon-lite) - Modern Rails starter kit (includes StimulusJs) 
+- [Sjabloon-lite](https://github.com/eelcoj/sjabloon-lite) - Modern Rails starter kit (includes StimulusJs)
 - [Trimmings](https://github.com/postlight/trimmings) - Set of patterns that allow you to add DOM manipulation by adding data-trimmings-* attributes
 - [Turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster and pairs perfectly with stimulusjs
 - [Alpline.js](https://github.com/alpinejs/alpine) - An alternative to StimulusJS - does all the same stuff in similar ways, but proposes to store your logic in HTML, not in controllers.
