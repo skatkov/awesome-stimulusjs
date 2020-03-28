@@ -23,6 +23,7 @@
 
 ## Reading
 - _modestjs.works:_ [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
+- _betterstimulus.com_: [Better Stimulus](https://www.betterstimulus.com/) - An opinionated collection of StimulusJS best practices 
 - _onrails.blog:_ [ StimulusJS Tutorials](https://onrails.blog/stimulus-js-tutorials/) - One man journey to stimulusjs written down in form of tutorials (with demo's and code). My favorite:
   - [Building a Progressive Web App with Rails and Stimulus](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/)
   - [Stimulus + ActionCable + ActiveJob: Loading Asynchronous API Data](https://onrails.blog/2019/02/19/stimulus-actioncable-activejob-loading-asynchronous-api-data/)
