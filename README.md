@@ -27,6 +27,9 @@
 - _onrails.blog:_ [ StimulusJS Tutorials](https://onrails.blog/stimulus-js-tutorials/) - One man journey to stimulusjs written down in form of tutorials (with demo's and code). My favorite:
   - [Building a Progressive Web App with Rails and Stimulus](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/)
   - [Stimulus + ActionCable + ActiveJob: Loading Asynchronous API Data](https://onrails.blog/2019/02/19/stimulus-actioncable-activejob-loading-asynchronous-api-data/)
+- _leastbad.com:_ 
+  - [Mutation-first development: a call to action](https://leastbad.com/mutation-first-development) - Deep dive into history of Stimulus and Turbolinks with a good reasons to reconsider our approach to front-end development.
+  - [The best one-line Stimulus power move](https://leastbad.com/stimulus-power-move) - There is no easy way to access methods in a controller from another controller, external scripts, jQuery plugins or the console in StimulusJS… But there is this trick.
 - _jorgemanrubia.com:_ [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
 - _shime.sh:_ [Testing StimulusJS](https://shime.sh/testing-stimulus) - Testing was never covered in official documentation, this is an interesting alternative approach.
 - _honeybadger.io:_ [How We Migrated To Turbolinks Without Breaking JavaScript](https://www.honeybadger.io/blog/turbolinks/)
@@ -68,4 +71,3 @@
 - [Sjabloon-lite](https://github.com/eelcoj/sjabloon-lite) - Modern Rails starter kit (includes StimulusJs)
 - [Trimmings](https://github.com/postlight/trimmings) - Set of patterns that allow you to add DOM manipulation by adding data-trimmings-* attributes
 - [Turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster and pairs perfectly with stimulusjs
-- [Alpline.js](https://github.com/alpinejs/alpine) - An alternative to StimulusJS - does all the same stuff in similar ways, but proposes to store your logic in HTML, not in controllers.
