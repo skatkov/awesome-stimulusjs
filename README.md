@@ -23,11 +23,12 @@
 
 ## Reading
 - _modestjs.works:_ [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
-- _betterstimulus.com_: [Better Stimulus](https://www.betterstimulus.com/) - An opinionated collection of StimulusJS best practices 
+- _betterstimulus.com_: [Better Stimulus](https://www.betterstimulus.com/) - An opinionated collection of StimulusJS best practices
 - _onrails.blog:_ [ StimulusJS Tutorials](https://onrails.blog/stimulus-js-tutorials/) - One man journey to stimulusjs written down in form of tutorials (with demo's and code). My favorite:
   - [Building a Progressive Web App with Rails and Stimulus](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/)
   - [Stimulus + ActionCable + ActiveJob: Loading Asynchronous API Data](https://onrails.blog/2019/02/19/stimulus-actioncable-activejob-loading-asynchronous-api-data/)
 - _jorgemanrubia.com:_ [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
+- _chrislabarge.com:_ [Color Picker with Rails + Stimulus](https://chrislabarge.com/posts/color-picker) -  Install a Color Picker node module with Webpacker and use it with a Stimulus Controller.
 - _shime.sh:_ [Testing StimulusJS](https://shime.sh/testing-stimulus) - Testing was never covered in official documentation, this is an interesting alternative approach.
 - _honeybadger.io:_ [How We Migrated To Turbolinks Without Breaking JavaScript](https://www.honeybadger.io/blog/turbolinks/)
 - _mccollester.com_ __Using StimulusJS for Type-ahead Search__
