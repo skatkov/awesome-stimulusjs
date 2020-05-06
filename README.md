@@ -63,6 +63,7 @@
 - [stimulus-stripe-elements](https://github.com/eelcoj/stimulus-stripe-elements) - A StimulusJS controller to add Stripe.js and Elements to your page
 - [stimulus-getaddress-io](https://gitlab.com/initforthe/stimulus-getaddress-io) - Getaddress.io controller for StimulusJS
 - [stimulus-toggle-util](https://github.com/damonbauer/stimulus-toggle-util) - A simple toggle utility controller to hide/show elements on click.
+- [stimulus-image-grid](https://github.com/leastbad/stimulus-image-grid) - A Stimulus controller for beautiful image grids
 
 
 ## Other modest code
