@@ -71,4 +71,3 @@
 - [Sjabloon-lite](https://github.com/eelcoj/sjabloon-lite) - Modern Rails starter kit (includes StimulusJs)
 - [Trimmings](https://github.com/postlight/trimmings) - Set of patterns that allow you to add DOM manipulation by adding data-trimmings-* attributes
 - [Turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster and pairs perfectly with stimulusjs
-- [Alpline.js](https://github.com/alpinejs/alpine) - An alternative to StimulusJS - does all the same stuff in similar ways, but proposes to store your logic in HTML, not in controllers.
