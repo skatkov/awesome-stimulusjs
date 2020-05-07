@@ -65,9 +65,9 @@
 - [stimulus-toggle-util](https://github.com/damonbauer/stimulus-toggle-util) - A simple toggle utility controller to hide/show elements on click.
 - [stimulus-image-grid](https://github.com/leastbad/stimulus-image-grid) - A Stimulus controller for beautiful image grids
 
-
 ## Other modest code
 - [Black Candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server. Biggest open source rails app done with stimulusjs
 - [Sjabloon-lite](https://github.com/eelcoj/sjabloon-lite) - Modern Rails starter kit (includes StimulusJs)
 - [Trimmings](https://github.com/postlight/trimmings) - Set of patterns that allow you to add DOM manipulation by adding data-trimmings-* attributes
 - [Turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster and pairs perfectly with stimulusjs
+- [jquery-events-to-dom-events](https://github.com/leastbad/jquery-events-to-dom-events) - Pick up legacy jQuery "events" using DOM event listeners 
