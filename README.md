@@ -40,6 +40,9 @@
   - [Stimulus JS Twitter UI: Part 1](https://gorails.com/episodes/stimulus-js-twitter-ui-part-1)
   - [Stimulus JS Twitter UI: Part 2](https://gorails.com/episodes/stimulus-js-twitter-ui-part-2)
   - [Dynamic Nested Forms with Stimulus JS](https://gorails.com/episodes/dynamic-nested-forms-with-stimulus-js)
+  - [Drag and Drop sortable lists with Rails & Stimulus JS](https://gorails.com/episodes/rails-drag-and-drop-sortable)
+  - [Google Maps and Google Places Autocomplete API with Rails, Turbolinks, and Stimulus.js](https://gorails.com/episodes/google-maps-places-autocomplete-with-rails)
+  - [Introduction to Stimulus Reflex](https://gorails.com/episodes/stimulus-reflex-basics)
 
 ## Podcasts
 - _The Changelog:_ [JavaScript sprinkles in Basecamp turned Stimulus](https://changelog.com/podcast/286) - David Heinemeier Hansson joined the show to share the story of how JavaScript sprinkles in Basecamp evolved into a full-fledged framework called Stimulus.
