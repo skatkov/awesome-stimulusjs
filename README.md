@@ -1,4 +1,5 @@
 # Awesome StimulusJS
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 <div align="center">
   <h3>Modestly awesome list of StimulusJS related content.</h3>
   <div>
@@ -19,7 +20,7 @@
   - [Reading](#reading)
   - [Podcasts](#podcasts)
   - [Packages](#packages)
-  - [Other modest code](#other-modest-code)
+  - [Other Modest Code](#other-modest-code)
 
 ## Reading
 - _betterstimulus.com_: [Better Stimulus](https://www.betterstimulus.com/) - An opinionated collection of StimulusJS best practices
@@ -69,7 +70,7 @@
 - [stimulus-use](https://github.com/stimulus-use/stimulus-use) - A collection of composable behaviors for your Stimulus Controllers
 
 
-## Other modest code
+## Other Modest Code
 - [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
 - [Black Candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server. Biggest open source rails app done with stimulusjs
 - [Sjabloon-lite](https://github.com/eelcoj/sjabloon-lite) - Modern Rails starter kit (includes StimulusJs)
