@@ -71,7 +71,7 @@
 
 
 ## Other Modest Code
-- [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript.
+- [ModestJS E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript.
 - [Black Candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server. Biggest open source rails app done with StimulusJS.
 - [Sjabloon-lite](https://github.com/eelcoj/sjabloon-lite) - Modern Rails starter kit (includes StimulusJS).
 - [Trimmings](https://github.com/postlight/trimmings) - Set of patterns that allow you to add DOM manipulation by adding data-trimmings-* attributes.
