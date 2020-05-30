@@ -1,5 +1,4 @@
 # Awesome StimulusJS
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 <div align="center">
   <h3>Modestly awesome list of StimulusJS related content.</h3>
   <div>
