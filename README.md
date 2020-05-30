@@ -58,22 +58,22 @@
 - [stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - StimulusJS autocomplete component.
 - [stimulus-tabs](https://github.com/jwald1/stimulus-tabs) - A simple tabs controller for StimulusJS.
 - [stimulus-data-bindings](https://gitlab.com/initforthe/stimulus-data-bindings) - One-way data binding controller for StimulusJS.
-- [stimulus-conductor](https://github.com/adrienpoly/stimulus-conductor) - An optionated StimulusJS Controller to easily manage parent/children controllers
+- [stimulus-conductor](https://github.com/adrienpoly/stimulus-conductor) - An optionated StimulusJS Controller to easily manage parent/children controllers.
 - [stimulus-rails-ujs](https://gitlab.com/initforthe/stimulus-rails-ujs) - Rails UJS bindings for StimulusJS.
-- [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - Sticky Table Header Controller Using Stimulus.js
+- [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - Sticky Table Header Controller Using StimulusJS.
 - [stimulus-inline-edit](https://github.com/eelcoj/stimulus-inline-edit) - A StimulusJS controller to add inline edit to Rails-powered input fields.
 - [stimulus-form-utilities](https://github.com/eelcoj/stimulus-form-utilities) - A set of small form utility helpers built with Stimulus.
-- [stimulus-stripe-elements](https://github.com/eelcoj/stimulus-stripe-elements) - A StimulusJS controller to add Stripe.js and Elements to your page
-- [stimulus-getaddress-io](https://gitlab.com/initforthe/stimulus-getaddress-io) - Getaddress.io controller for StimulusJS
+- [stimulus-stripe-elements](https://github.com/eelcoj/stimulus-stripe-elements) - A StimulusJS controller to add Stripe.js and Elements to your page.
+- [stimulus-getaddress-io](https://gitlab.com/initforthe/stimulus-getaddress-io) - Getaddress.io controller for StimulusJS.
 - [stimulus-toggle-util](https://github.com/damonbauer/stimulus-toggle-util) - A simple toggle utility controller to hide/show elements on click.
-- [stimulus-image-grid](https://github.com/leastbad/stimulus-image-grid) - A StimulusJS controller for beautiful image grids
-- [stimulus-use](https://github.com/stimulus-use/stimulus-use) - A collection of composable behaviors for your StimulusJS Controllers
+- [stimulus-image-grid](https://github.com/leastbad/stimulus-image-grid) - A StimulusJS controller for beautiful image grids.
+- [stimulus-use](https://github.com/stimulus-use/stimulus-use) - A collection of composable behaviors for your StimulusJS Controllers.
 
 
 ## Other Modest Code
-- [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
-- [Black Candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server. Biggest open source rails app done with StimulusJS
-- [Sjabloon-lite](https://github.com/eelcoj/sjabloon-lite) - Modern Rails starter kit (includes StimulusJS)
-- [Trimmings](https://github.com/postlight/trimmings) - Set of patterns that allow you to add DOM manipulation by adding data-trimmings-* attributes
-- [Turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster and pairs perfectly with StimulusJS
-- [jquery-events-to-dom-events](https://github.com/leastbad/jquery-events-to-dom-events) - Pick up legacy jQuery "events" using DOM event listeners 
+- [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript.
+- [Black Candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server. Biggest open source rails app done with StimulusJS.
+- [Sjabloon-lite](https://github.com/eelcoj/sjabloon-lite) - Modern Rails starter kit (includes StimulusJS).
+- [Trimmings](https://github.com/postlight/trimmings) - Set of patterns that allow you to add DOM manipulation by adding data-trimmings-* attributes.
+- [Turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster and pairs perfectly with StimulusJS.
+- [jquery-events-to-dom-events](https://github.com/leastbad/jquery-events-to-dom-events) - Pick up legacy jQuery "events" using DOM event listeners.
