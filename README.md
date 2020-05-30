@@ -22,7 +22,6 @@
   - [Other modest code](#other-modest-code)
 
 ## Reading
-- _modestjs.works:_ [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
 - _betterstimulus.com_: [Better Stimulus](https://www.betterstimulus.com/) - An opinionated collection of StimulusJS best practices
 - _onrails.blog:_ [ StimulusJS Tutorials](https://onrails.blog/stimulus-js-tutorials/) - One man journey to stimulusjs written down in form of tutorials (with demo's and code). My favorite:
   - [Building a Progressive Web App with Rails and Stimulus](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/)
@@ -71,6 +70,7 @@
 
 
 ## Other modest code
+- _modestjs.works:_ [Modest Js E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript
 - [Black Candy](https://github.com/aidewoode/black_candy) - A self hosted music streaming server. Biggest open source rails app done with stimulusjs
 - [Sjabloon-lite](https://github.com/eelcoj/sjabloon-lite) - Modern Rails starter kit (includes StimulusJs)
 - [Trimmings](https://github.com/postlight/trimmings) - Set of patterns that allow you to add DOM manipulation by adding data-trimmings-* attributes
