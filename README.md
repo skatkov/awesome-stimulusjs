@@ -42,6 +42,7 @@
   - [Drag and Drop sortable lists with Rails & Stimulus JS](https://gorails.com/episodes/rails-drag-and-drop-sortable)
   - [Google Maps and Google Places Autocomplete API with Rails, Turbolinks, and Stimulus.js](https://gorails.com/episodes/google-maps-places-autocomplete-with-rails)
   - [Introduction to Stimulus Reflex](https://gorails.com/episodes/stimulus-reflex-basics)
+- _boringrails.com:_ [Writing better Stimulus controllers](https://boringrails.com/articles/better-stimulus-controllers/) - Excellent article that shows the common failure paths when working with Stimulus and how you can improve your controllers by keeping them small, generic, and composable.
 
 ## Podcasts
 - _The Changelog:_ [JavaScript sprinkles in Basecamp turned Stimulus](https://changelog.com/podcast/286) - David Heinemeier Hansson joined the show to share the story of how JavaScript sprinkles in Basecamp evolved into a full-fledged framework called StimulusJS.
