@@ -52,6 +52,9 @@
 
 ## Packages
 - [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Phoenix Liveview based on modern rails.
+- [stimulus-image-grid](https://github.com/leastbad/stimulus-image-grid) - A StimulusJS controller for beautiful image grids.
+- [stimulus-use](https://github.com/stimulus-use/stimulus-use) - A collection of composable behaviors for your StimulusJS Controllers.
+- [stimulus-reveal](https://gitlab.com/initforthe/stimulus-reveal) - Stimulus controller to hide/show elements with optional transitions
 - [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) - A Wrapper for Flatpickr library.
 - [tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components (tabs, dropdowns, modals, toggles, autosave, etc) for TailwindCSS users.
 - [stimulus-validation](https://github.com/jwald1/stimulus-validation) - Validation controller for StimulusJS.
@@ -66,8 +69,6 @@
 - [stimulus-stripe-elements](https://github.com/eelcoj/stimulus-stripe-elements) - A StimulusJS controller to add Stripe.js and Elements to your page.
 - [stimulus-getaddress-io](https://gitlab.com/initforthe/stimulus-getaddress-io) - Getaddress.io controller for StimulusJS.
 - [stimulus-toggle-util](https://github.com/damonbauer/stimulus-toggle-util) - A simple toggle utility controller to hide/show elements on click.
-- [stimulus-image-grid](https://github.com/leastbad/stimulus-image-grid) - A StimulusJS controller for beautiful image grids.
-- [stimulus-use](https://github.com/stimulus-use/stimulus-use) - A collection of composable behaviors for your StimulusJS Controllers.
 
 
 ## Other Modest Code
