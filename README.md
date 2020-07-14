@@ -54,6 +54,7 @@
 - [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Phoenix Liveview based on modern rails.
 - [stimulus-image-grid](https://github.com/leastbad/stimulus-image-grid) - A StimulusJS controller for beautiful image grids.
 - [stimulus-use](https://github.com/stimulus-use/stimulus-use) - A collection of composable behaviors for your StimulusJS Controllers.
+- [stimulus-hotkeys](https://github.com/leastbad/stimulus-hotkeys) - A Stimulus controller for mapping keystrokes to behaviors
 - [stimulus-reveal](https://gitlab.com/initforthe/stimulus-reveal) - Stimulus controller to hide/show elements with optional transitions
 - [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) - A Wrapper for Flatpickr library.
 - [tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components (tabs, dropdowns, modals, toggles, autosave, etc) for TailwindCSS users.
