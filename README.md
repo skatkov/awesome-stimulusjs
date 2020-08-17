@@ -20,6 +20,7 @@
   - [Podcasts](#podcasts)
   - [Packages](#packages)
   - [Other Modest Code](#other-modest-code)
+  - [Community](#community)
 
 ## Reading
 - _betterstimulus.com_: [Better Stimulus](https://www.betterstimulus.com/) - An opinionated collection of StimulusJS best practices.
@@ -82,3 +83,8 @@
 - [Trimmings](https://github.com/postlight/trimmings) - Set of patterns that allow you to add DOM manipulation by adding data-trimmings-* attributes.
 - [Turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster and pairs perfectly with StimulusJS.
 - [jquery-events-to-dom-events](https://github.com/leastbad/jquery-events-to-dom-events) - Pick up legacy jQuery "events" using DOM event listeners.
+
+
+## Community
+- [Stimulus forums](https://discourse.stimulusjs.org/) - Official community forums, still biggest wealth of information is scattered across those, but activity is slow.
+- [Stimulus Reflex discord](https://discord.gg/XveN625) - Focused on Stimulus Reflex, but still a lot of discussion about stimulus and a lot of knowledgable people on matter. Very active - questions get answered in minutes.
