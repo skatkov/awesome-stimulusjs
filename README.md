@@ -86,5 +86,5 @@
 
 
 ## Community
-- [Stimulus forums](https://discourse.stimulusjs.org/) - Official community forums, still biggest wealth of information is scattered across those, but activity is slow.
-- [Stimulus Reflex discord](https://discord.gg/XveN625) - Focused on Stimulus Reflex, but still a lot of discussion about stimulus and a lot of knowledgable people on matter. Very active - questions get answered in minutes.
+- [Stimulus forums](https://discourse.stimulusjs.org/) - Official community forums. Biggest wealth of information is scattered across those, but activity is slow.
+- [Stimulus Reflex discord](https://discord.gg/XveN625) - Focused on Stimulus Reflex, but a lot of discussion about stimulus and a lot of knowledgable people on matter. Very active, questions get answered in minutes.
