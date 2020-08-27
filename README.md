@@ -67,7 +67,7 @@
 - [stimulus-tabs](https://github.com/jwald1/stimulus-tabs) - A simple tabs controller for StimulusJS.
 - [stimulus-data-bindings](https://gitlab.com/initforthe/stimulus-data-bindings) - One-way data binding controller for StimulusJS.
 - [stimulus-conductor](https://github.com/adrienpoly/stimulus-conductor) - An optionated StimulusJS Controller to easily manage parent/children controllers.
-- [stimulus-rails-ujs](https://gitlab.com/initforthe/stimulus-rails-ujs) - Rails UJS bindings for StimulusJS.
+- [stimulus-remote](https://gitlab.com/initforthe/stimulus-remote) - Stimulus controller to provide content handling for HTML sent over the wire whilst using Rails UJS.
 - [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - Sticky Table Header Controller Using StimulusJS.
 - [stimulus-inline-edit](https://github.com/eelcoj/stimulus-inline-edit) - A StimulusJS controller to add inline edit to Rails-powered input fields.
 - [stimulus-form-utilities](https://github.com/eelcoj/stimulus-form-utilities) - A set of small form utility helpers built with Stimulus.
