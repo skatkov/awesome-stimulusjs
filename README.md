@@ -31,6 +31,7 @@
 - _jorgemanrubia.com:_ [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
 - _chrislabarge.com:_ [Color Picker with Rails + Stimulus](https://chrislabarge.com/posts/color-picker) -  Install a Color Picker node module with Webpacker and use it with a Stimulus Controller.
 - _shime.sh:_ [Testing StimulusJS](https://shime.sh/testing-stimulus) - Testing was never covered in official documentation, this is an interesting alternative approach.
+- _dev.to:_ [Modern Rails flash messages](https://dev.to/citronak/modern-rails-flash-messages-part-1-viewcomponent-stimulus-tailwind-css-3alm) - Modern day flash messages with undo functionality - based on rails and stimulus.
 - _honeybadger.io:_ [How We Migrated To Turbolinks Without Breaking JavaScript](https://www.honeybadger.io/blog/turbolinks/)
 - _mccollester.com_ __Using StimulusJS for Type-ahead Search__
   - [part 1](http://mccollester.com/2019/02/11/using-stimulusjs-type-ahead-search/)
