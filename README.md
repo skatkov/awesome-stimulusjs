@@ -47,6 +47,7 @@
   - [Introduction to Stimulus Reflex](https://gorails.com/episodes/stimulus-reflex-basics)
 - _boringrails.com:_ [Writing better Stimulus controllers](https://boringrails.com/articles/better-stimulus-controllers/) - Excellent article that shows the common failure paths when working with Stimulus and how you can improve your controllers by keeping them small, generic, and composable.
 - _minthesize.com:_ [Infinite Horizontal Slider with CableReady and the Intersection Observer API](https://blog.minthesize.com/horizontal-slider-intersection-observer-cable-ready)
+- _github.com:_ [Guide to Reactive Rails](https://github.com/obie/guide-to-reactive-rails) - helpful content for a Reactive Rails journey (with stimulusjs involved)
 
 ## Podcasts
 - _The Changelog:_ [JavaScript sprinkles in Basecamp turned Stimulus](https://changelog.com/podcast/286) - David Heinemeier Hansson joined the show to share the story of how JavaScript sprinkles in Basecamp evolved into a full-fledged framework called StimulusJS.
