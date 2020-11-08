@@ -23,7 +23,6 @@
   - [Community](#community)
 
 ## Reading
-- _betterstimulus.com_: [Better Stimulus](https://www.betterstimulus.com/) - An opinionated collection of StimulusJS best practices.
 - _onrails.blog:_ [ StimulusJS Tutorials](https://onrails.blog/stimulus-js-tutorials/) - One man journey to StimulusJS written down in form of tutorials (with demos and code). My favorite:
   - [Building a Progressive Web App with Rails and Stimulus](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/)
   - [Stimulus + ActionCable + ActiveJob: Loading Asynchronous API Data](https://onrails.blog/2019/02/19/stimulus-actioncable-activejob-loading-asynchronous-api-data/)
@@ -90,3 +89,5 @@
 ## Community
 - [Stimulus forums](https://discourse.stimulusjs.org/) - Official community forums. Biggest wealth of information is scattered across those, but activity is slow.
 - [Stimulus Reflex discord](https://discord.gg/XveN625) - Focused on Stimulus Reflex, but a lot of discussion about stimulus and a lot of knowledgable people on matter. Very active, questions get answered in minutes.
+- [Better Stimulus](https://www.betterstimulus.com/) - An opinionated collection of StimulusJS best practices from community.
+
