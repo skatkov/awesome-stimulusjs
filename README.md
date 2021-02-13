@@ -17,10 +17,45 @@
 ## Contents
 
   - [Reading](#reading)
-  - [Podcasts](#podcasts)
   - [Packages](#packages)
+  - [Podcasts](#podcasts)
   - [Other Modest Code](#other-modest-code)
   - [Community](#community)
+
+## Packages
+- [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Phoenix Liveview based on modern rails.
+- [stimulus-image-grid](https://github.com/leastbad/stimulus-image-grid) - A StimulusJS controller for beautiful image grids.
+- [stimulus-use](https://github.com/stimulus-use/stimulus-use) - A collection of composable behaviors for your StimulusJS Controllers.
+- [stimulus-hotkeys](https://github.com/leastbad/stimulus-hotkeys) - A Stimulus controller for mapping keystrokes to behaviors
+- [stimulus-existence](https://github.com/Circuit8/stimulus-existence) - Stimulus controller to remove elements from the dom, and be notified with an event when they are added.
+- [stimulus-reveal](https://gitlab.com/initforthe/stimulus-reveal) - Stimulus controller to hide/show elements with optional transitions
+- [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) - A Wrapper for Flatpickr library.
+- [tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components (tabs, dropdowns, modals, toggles, autosave, etc) for TailwindCSS users.
+- [stimulus-validation](https://github.com/jwald1/stimulus-validation) - Validation controller for StimulusJS.
+- [stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - StimulusJS autocomplete component.
+- [stimulus-tabs](https://github.com/jwald1/stimulus-tabs) - A simple tabs controller for StimulusJS.
+- [stimulus-conductor](https://github.com/adrienpoly/stimulus-conductor) - An optionated StimulusJS Controller to easily manage parent/children controllers.
+- [stimulus-remote](https://gitlab.com/initforthe/stimulus-remote) - Stimulus controller to provide content handling for HTML sent over the wire whilst using Rails UJS.
+- [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - Sticky Table Header Controller Using StimulusJS.
+- [stimulus-getaddress-io](https://gitlab.com/initforthe/stimulus-getaddress-io) - Getaddress.io controller for StimulusJS.
+- [stimulus-toggle-util](https://github.com/damonbauer/stimulus-toggle-util) - A simple toggle utility controller to hide/show elements on click.
+- [stimulus-timeago](https://github.com/stimulus-components/stimulus-timeago) - A Stimulus controller that returns the distance between the given date and now in words.
+- [stimulus-popover](https://github.com/stimulus-components/stimulus-popover) - A Stimulus controller to deal with HTML popover. 
+- [stimulus-sortable](https://github.com/stimulus-components/stimulus-sortable) - A Stimulus controller to reorder lists with drag-and-drop. 
+- [stimulus-reveal-controller](https://github.com/stimulus-components/stimulus-reveal-controller) - A Stimulus controller to toggle a class on one or multiple items to show or hide them.
+- [stimulus-content-loader](https://github.com/stimulus-components/stimulus-content-loader) - A Stimulus controller to asynchronously load HTML from an url. 
+- [stimulus-checkbox-select-all](https://github.com/stimulus-components/stimulus-checkbox-select-all) - A Stimulus controller for managing checkbox lists.
+- [stimulus-rails-nested-form](https://github.com/stimulus-components/stimulus-rails-nested-form) - A Stimulus controller to create new fields on the fly to populate your Rails relationship.
+- [stimulus-textarea-autogrow](https://github.com/stimulus-components/stimulus-textarea-autogrow) - A Stimulus controller for autogrowing textarea.
+- [stimulus-remote-rails](https://github.com/stimulus-components/stimulus-remote-rails) - A Stimulus controller to handle Rails UJS events.
+- [stimulus-character-counter](https://github.com/stimulus-components/stimulus-character-counter) - A Stimulus controller that counts the number of characters in any input fields.
+- [stimulus-animated-number](https://github.com/stimulus-components/stimulus-animated-number) - A Stimulus controller that animates a numerical value by counting to it.
+- [stimulus-lightbox](https://github.com/stimulus-components/stimulus-lightbox) - A Stimulus controller to add a lightbox on images.
+- [stimulus-scroll-progress](https://github.com/stimulus-components/stimulus-scroll-progress) - A Stimulus controller to add a progress bar when scrolling. 
+- [stimulus-carousel](https://github.com/stimulus-components/stimulus-carousel) - A Stimulus controller to deal with carousel.
+- [stimulus-rails-autosave](https://github.com/stimulus-components/stimulus-rails-autosave) - A Stimulus controller to autosubmit Rails forms. 
+
+
 
 ## Reading
 - _onrails.blog:_ [ StimulusJS Tutorials](https://onrails.blog/stimulus-js-tutorials/) - One man journey to StimulusJS written down in form of tutorials (with demos and code). My favorite:
@@ -55,43 +90,6 @@
 - _Full Stack Radio:_ [DHH - Stimulus in Practice + On Writing Software Well](http://www.fullstackradio.com/83) - In this episode, Adam talks to David Heinemeier Hansson about Basecamp's new JavaScript framework "StimulusJS" as well as David's new YouTube series "On Writing Software Well".
 - _Ruby Rogues:_ [Stimulus](https://www.youtube.com/watch?v=5ACErJC9ixs&list=PLJesql-aSfX7ZlZvJ7KZnyluVOVTSNHW1&index=20&t=0s) - The panelists talk about different use cases for StimulusJS, how it works, and how it can help your project.
 - _Code with Jason:_ [Stimulus and Webpacker with Noel Rappin](https://www.codewithjason.com/rails-with-jason-podcast/noel-rappin/) - Noel Rappin talks about Webpack, Webpacker, and StimulusJS.
-
-## Packages
-- [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Phoenix Liveview based on modern rails.
-- [stimulus-image-grid](https://github.com/leastbad/stimulus-image-grid) - A StimulusJS controller for beautiful image grids.
-- [stimulus-use](https://github.com/stimulus-use/stimulus-use) - A collection of composable behaviors for your StimulusJS Controllers.
-- [stimulus-hotkeys](https://github.com/leastbad/stimulus-hotkeys) - A Stimulus controller for mapping keystrokes to behaviors
-- [stimulus-existence](https://github.com/Circuit8/stimulus-existence) - Stimulus controller to remove elements from the dom, and be notified with an event when they are added.
-- [stimulus-reveal](https://gitlab.com/initforthe/stimulus-reveal) - Stimulus controller to hide/show elements with optional transitions
-- [stimulus-flatpickr](https://github.com/adrienpoly/stimulus-flatpickr) - A Wrapper for Flatpickr library.
-- [tailwindcss-stimulus-components](https://github.com/excid3/tailwindcss-stimulus-components) - A set of StimulusJS components (tabs, dropdowns, modals, toggles, autosave, etc) for TailwindCSS users.
-- [stimulus-validation](https://github.com/jwald1/stimulus-validation) - Validation controller for StimulusJS.
-- [stimulus-autocomplete](https://github.com/afcapel/stimulus-autocomplete) - StimulusJS autocomplete component.
-- [stimulus-tabs](https://github.com/jwald1/stimulus-tabs) - A simple tabs controller for StimulusJS.
-- [stimulus-data-bindings](https://gitlab.com/initforthe/stimulus-data-bindings) - One-way data binding controller for StimulusJS.
-- [stimulus-conductor](https://github.com/adrienpoly/stimulus-conductor) - An optionated StimulusJS Controller to easily manage parent/children controllers.
-- [stimulus-remote](https://gitlab.com/initforthe/stimulus-remote) - Stimulus controller to provide content handling for HTML sent over the wire whilst using Rails UJS.
-- [stimulus-sticky-table-header](https://github.com/johnbeatty/stimulus-sticky-table-header) - Sticky Table Header Controller Using StimulusJS.
-- [stimulus-inline-edit](https://github.com/eelcoj/stimulus-inline-edit) - A StimulusJS controller to add inline edit to Rails-powered input fields.
-- [stimulus-form-utilities](https://github.com/eelcoj/stimulus-form-utilities) - A set of small form utility helpers built with Stimulus.
-- [stimulus-stripe-elements](https://github.com/eelcoj/stimulus-stripe-elements) - A StimulusJS controller to add Stripe.js and Elements to your page.
-- [stimulus-getaddress-io](https://gitlab.com/initforthe/stimulus-getaddress-io) - Getaddress.io controller for StimulusJS.
-- [stimulus-toggle-util](https://github.com/damonbauer/stimulus-toggle-util) - A simple toggle utility controller to hide/show elements on click.
-- [stimulus-timeago](https://github.com/stimulus-components/stimulus-timeago) - A Stimulus controller that returns the distance between the given date and now in words.
-- [stimulus-popover](https://github.com/stimulus-components/stimulus-popover) - A Stimulus controller to deal with HTML popover. 
-- [stimulus-sortable](https://github.com/stimulus-components/stimulus-sortable) - A Stimulus controller to reorder lists with drag-and-drop. 
-- [stimulus-reveal-controller](https://github.com/stimulus-components/stimulus-reveal-controller) - A Stimulus controller to toggle a class on one or multiple items to show or hide them.
-- [stimulus-content-loader](https://github.com/stimulus-components/stimulus-content-loader) - A Stimulus controller to asynchronously load HTML from an url. 
-- [stimulus-checkbox-select-all](https://github.com/stimulus-components/stimulus-checkbox-select-all) - A Stimulus controller for managing checkbox lists.
-- [stimulus-rails-nested-form](https://github.com/stimulus-components/stimulus-rails-nested-form) - A Stimulus controller to create new fields on the fly to populate your Rails relationship.
-- [stimulus-textarea-autogrow](https://github.com/stimulus-components/stimulus-textarea-autogrow) - A Stimulus controller for autogrowing textarea.
-- [stimulus-remote-rails](https://github.com/stimulus-components/stimulus-remote-rails) - A Stimulus controller to handle Rails UJS events.
-- [stimulus-character-counter](https://github.com/stimulus-components/stimulus-character-counter) - A Stimulus controller that counts the number of characters in any input fields.
-- [stimulus-animated-number](https://github.com/stimulus-components/stimulus-animated-number) - A Stimulus controller that animates a numerical value by counting to it.
-- [stimulus-lightbox](https://github.com/stimulus-components/stimulus-lightbox) - A Stimulus controller to add a lightbox on images.
-- [stimulus-scroll-progress](https://github.com/stimulus-components/stimulus-scroll-progress) - A Stimulus controller to add a progress bar when scrolling. 
-- [stimulus-carousel](https://github.com/stimulus-components/stimulus-carousel) - A Stimulus controller to deal with carousel.
-- [stimulus-rails-autosave](https://github.com/stimulus-components/stimulus-rails-autosave) - A Stimulus controller to autosubmit Rails forms. 
 
 ## Other Modest Code
 - [ModestJS E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript.
