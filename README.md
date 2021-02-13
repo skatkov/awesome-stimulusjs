@@ -26,9 +26,11 @@
 - _onrails.blog:_ [ StimulusJS Tutorials](https://onrails.blog/stimulus-js-tutorials/) - One man journey to StimulusJS written down in form of tutorials (with demos and code). My favorite:
   - [Building a Progressive Web App with Rails and Stimulus](https://onrails.blog/2019/05/06/hnpwa-with-rails-and-stimulus-introduction/)
   - [Stimulus + ActionCable + ActiveJob: Loading Asynchronous API Data](https://onrails.blog/2019/02/19/stimulus-actioncable-activejob-loading-asynchronous-api-data/)
-- _thecrapthatcomesoutofmyhead.com:_ [Building beautiful, fast apps with Rails and StimulusJS](https://www.thecrapthatcomesoutofmyhead.com/2020/06/24/building-beautiful-fast-apps-with-rails-and-stimulusjs)   
+- _thecrapthatcomesoutofmyhead.com:_ [Building beautiful, fast apps with Rails and StimulusJS](https://www.thecrapthatcomesoutofmyhead.com/2020/06/24/building-beautiful-fast-apps-with-rails-and-stimulusjs)
 - _jorgemanrubia.com:_ [Form validations with HTML5 and modern Rails](https://www.jorgemanrubia.com/2019/02/16/form-validations-with-html5-and-modern-rails/)
-- _chrislabarge.com:_ [Color Picker with Rails + Stimulus](https://chrislabarge.com/posts/color-picker) -  Install a Color Picker node module with Webpacker and use it with a Stimulus Controller.
+- _chrislabarge.com:_ __Using Node Modules with Rails + Webpacker and StimulusJS__
+    - [Pickr - Color Picker Library](https://chrislabarge.com/posts/color-picker)
+    - [Tippy.js - Popup/Popover Library](https://chrislabarge.com/posts/stimulus-popup)
 - _shime.sh:_ [Testing StimulusJS](https://shime.sh/testing-stimulus) - Testing was never covered in official documentation, this is an interesting alternative approach.
 - _dev.to:_ [Modern Rails flash messages](https://dev.to/citronak/modern-rails-flash-messages-part-1-viewcomponent-stimulus-tailwind-css-3alm) - Modern day flash messages with undo functionality - based on rails and stimulus.
 - _honeybadger.io:_ [How We Migrated To Turbolinks Without Breaking JavaScript](https://www.honeybadger.io/blog/turbolinks/)
