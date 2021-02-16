@@ -26,6 +26,7 @@
 - [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Phoenix Liveview based on modern rails.
 - [stimulus-image-grid](https://github.com/leastbad/stimulus-image-grid) - A StimulusJS controller for beautiful image grids.
 - [stimulus-use](https://github.com/stimulus-use/stimulus-use) - A collection of composable behaviors for your StimulusJS Controllers.
+- [stimulus-library](https://sub-xaero.github.io/stimulus-library/#/) — A collection of common and useful Stimulus controllers
 - [stimulus-hotkeys](https://github.com/leastbad/stimulus-hotkeys) - A Stimulus controller for mapping keystrokes to behaviors
 - [stimulus-existence](https://github.com/Circuit8/stimulus-existence) - Stimulus controller to remove elements from the dom, and be notified with an event when they are added.
 - [stimulus-reveal](https://gitlab.com/initforthe/stimulus-reveal) - Stimulus controller to hide/show elements with optional transitions
