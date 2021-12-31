@@ -55,6 +55,7 @@
 - [stimulus-carousel](https://github.com/stimulus-components/stimulus-carousel) - A Stimulus controller to deal with carousel.
 - [stimulus-rails-autosave](https://github.com/stimulus-components/stimulus-rails-autosave) - A Stimulus controller to autosubmit Rails forms. 
 - [stimulus-transition](https://github.com/robbevp/stimulus-transition) - A stimulus controller to automatically run enter/leave transitions inspired by Vue and Alpine syntax.
+- [stimulus-library](https://github.com/Sub-Xaero/stimulus-library) - A set of useful pre-built and configurable StimulusJS controllers for various common scenarios.
 
 
 
