@@ -74,7 +74,7 @@
 - _mccollester.com_ __Using StimulusJS for Type-ahead Search__
   - [part 1](http://mccollester.com/2019/02/11/using-stimulusjs-type-ahead-search/)
   - [part 2](http://mccollester.com/2019/02/13/using-stimulusjs-for-type-ahead-search-2-2/)
-- _cloudsh.com:_ [StimulusJS and Shopify API; Making a Cart](https://cloudsh.com/eleventy/stimulusjs_and_shopify_api.html)
+- _cloudsh.com:_ [StimulusJS and Shopify API; Making a Cart](https://cloudsh.com/eleventy/posts/2019/stimulusjs_and_shopify_api.html)
 - _gorails.com:_ __guides, screencasts, and tutorials__ - Premium content, covers everything one needs to know about StimulusJS in an easily digestible video format (with code, demos and text as well).
   - [Stimulus JS Framework Introduction](https://gorails.com/episodes/stimulus-js-framework-introduction?autoplay=1)
   - [Stimulus JS Twitter UI: Part 1](https://gorails.com/episodes/stimulus-js-twitter-ui-part-1)
@@ -91,7 +91,7 @@
 - _The Changelog:_ [JavaScript sprinkles in Basecamp turned Stimulus](https://changelog.com/podcast/286) - David Heinemeier Hansson joined the show to share the story of how JavaScript sprinkles in Basecamp evolved into a full-fledged framework called StimulusJS.
 - _Full Stack Radio:_ [DHH - Stimulus in Practice + On Writing Software Well](http://www.fullstackradio.com/83) - In this episode, Adam talks to David Heinemeier Hansson about Basecamp's new JavaScript framework "StimulusJS" as well as David's new YouTube series "On Writing Software Well".
 - _Ruby Rogues:_ [Stimulus](https://www.youtube.com/watch?v=5ACErJC9ixs&list=PLJesql-aSfX7ZlZvJ7KZnyluVOVTSNHW1&index=20&t=0s) - The panelists talk about different use cases for StimulusJS, how it works, and how it can help your project.
-- _Code with Jason:_ [Stimulus and Webpacker with Noel Rappin](https://www.codewithjason.com/rails-with-jason-podcast/noel-rappin/) - Noel Rappin talks about Webpack, Webpacker, and StimulusJS.
+- _Code with Jason:_ [Stimulus and Webpacker with Noel Rappin](https://www.codewithjason.com/podcast/9478314-002-stimulus-and-webpacker-with-noel-rappin/) - Noel Rappin talks about Webpack, Webpacker, and StimulusJS.
 
 ## Other Modest Code
 - [ModestJS E-Book](https://modestjs.works/) - A short ebook for those who want to write modest JavaScript.
