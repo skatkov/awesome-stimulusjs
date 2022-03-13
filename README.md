@@ -16,8 +16,8 @@
 
 ## Contents
 
-  - [Reading](#reading)
   - [Packages](#packages)
+  - [Reading](#reading)
   - [Podcasts](#podcasts)
   - [Other Modest Code](#other-modest-code)
   - [Community](#community)
